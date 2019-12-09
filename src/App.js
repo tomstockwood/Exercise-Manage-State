@@ -27,6 +27,7 @@ class App extends Component {
           <p className="text">
             Your Score: {numCorrect}/{numQuestions}
           </p>
+          Hello world
         </div>
       </div>
     );
